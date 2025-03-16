@@ -14,6 +14,7 @@
 Зашифруйте домашний каталог пользователя с помощью eCryptfs.  
 ![alt text](https://github.com/masterchoo495/13-02/blob/main/002.png)  
 
+
 ### Задание 2
 
 1. Установите поддержку **LUKS**.
@@ -37,6 +38,7 @@
 
 ![alt text](https://github.com/masterchoo495/13-02/blob/main/008.png)  
 
+Монтирование "открытого" раздела.  
 ![alt text](https://github.com/masterchoo495/13-02/blob/main/009.png)  
 
 ![alt text](https://github.com/masterchoo495/13-02/blob/main/010.png)  
