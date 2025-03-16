@@ -25,20 +25,21 @@
 ### Решение
 
 Создайте небольшой раздел, например, 100 Мб.  
-![alt text](https://github.com/masterchoo495/13-02/blob/main/004.png)
+![alt text](https://github.com/masterchoo495/13-02/blob/main/004.png)  
 
-![alt text](https://github.com/masterchoo495/13-02/blob/main/005.png)
+![alt text](https://github.com/masterchoo495/13-02/blob/main/005.png)  
 
 Зашифруйте созданный раздел с помощью LUKS.
-![alt text](https://github.com/masterchoo495/13-02/blob/main/006.png)
+![alt text](https://github.com/masterchoo495/13-02/blob/main/006.png)  
 
-![alt text](https://github.com/masterchoo495/13-02/blob/main/007.png)
+Монтирование и форматирование раздела.
+![alt text](https://github.com/masterchoo495/13-02/blob/main/007.png)  
 
-![alt text](https://github.com/masterchoo495/13-02/blob/main/008.png)
+![alt text](https://github.com/masterchoo495/13-02/blob/main/008.png)  
 
-![alt text](https://github.com/masterchoo495/13-02/blob/main/009.png)
+![alt text](https://github.com/masterchoo495/13-02/blob/main/009.png)  
 
-![alt text](https://github.com/masterchoo495/13-02/blob/main/010.png)
+![alt text](https://github.com/masterchoo495/13-02/blob/main/010.png)  
 
 ---
 ## Дополнительные задания (со звёздочкой*)
