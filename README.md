@@ -24,12 +24,12 @@
 
 ### Решение
 
-![alt text](https://github.com/masterchoo495/13-02/blob/main/003.png)
-
+Создайте небольшой раздел, например, 100 Мб.  
 ![alt text](https://github.com/masterchoo495/13-02/blob/main/004.png)
 
 ![alt text](https://github.com/masterchoo495/13-02/blob/main/005.png)
 
+Зашифруйте созданный раздел с помощью LUKS.
 ![alt text](https://github.com/masterchoo495/13-02/blob/main/006.png)
 
 ![alt text](https://github.com/masterchoo495/13-02/blob/main/007.png)
